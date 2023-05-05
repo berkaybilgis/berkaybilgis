@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **Tailwind CSS**
+- 🌱 I’m currently learning **Tailwind CSS and Typescript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/berkaybilgis?tab=repositories](https://github.com/berkaybilgis?tab=repositories)
 
